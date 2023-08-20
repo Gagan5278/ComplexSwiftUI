@@ -6,6 +6,9 @@
 
 ### Screenshots:
 
-https://github.com/Gagan5278/ComplexSwiftUI/assets/2304583/23c68a79-e53a-4a6b-a57c-f216179966da
+![Screenshot_1](https://github.com/Gagan5278/ComplexSwiftUI/assets/2304583/c4cf39be-0b4c-433c-be6c-c034448583cb)
 
-https://github.com/Gagan5278/ComplexSwiftUI/assets/2304583/c754923d-babd-4e5d-8c75-edb44187ee2c
+
+
+
+![Screenshot_2](https://github.com/Gagan5278/ComplexSwiftUI/assets/2304583/17404492-1369-46fd-9747-3c4bf107a9f1)
